@@ -1,8 +1,6 @@
  ## 👋 Hi, I’m @questworldimran
  
- ##  👀 I want to be a Devops experty
- 
-## 🌱 I’m currently learning Git
+ ##  👀 I am devops engineer
 
-## 💞️ I’m looking to certify myself as devops engineer
+ ##  💞️Iam a Certified Kubernetes K8s Administrator CKA
 
